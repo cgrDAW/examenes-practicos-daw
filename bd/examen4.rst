@@ -34,8 +34,8 @@ Preguntas sobre sqlite. 30p
 Preguntas sobre MariaDB: 30p
 ----------------------------
 
- #. ¿Qué BD tienes instaladas en el sistema?. 10p
- #. Crea una base de datos que se llame ejemplo, con una tabla que se llame tabla1 con dos campos. Exporta la base de datos y la dejas en el repositorio. Se llamará "ejemplo.dump". 20p.
+#. ¿Qué BD tienes instaladas en el sistema?. 10p
+#. Crea una base de datos que se llame ejemplo, con una tabla que se llame tabla1 con dos campos. Exporta la base de datos y la dejas en el repositorio. Se llamará "ejemplo.dump". 20p.
 
 Preguntas sobre Postgres: 20p
 -----------------------------
