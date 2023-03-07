@@ -1,8 +1,8 @@
 ==================================================
- Examen: Programación Orientada a Objetos con PHP
+Examen: Programación Orientada a Objetos con PHP
 ==================================================
 
- Primera Parte (poo_basico.php y vehiculos.inc). Son 35 puntos
+Primera Parte (poo_basico.php y vehiculos.inc). Son 35 puntos
 ===============================================================
 
 Crea una clase vehículos (``vehiculos.inc`) con:
