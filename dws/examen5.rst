@@ -2,7 +2,7 @@
 Examen: Programación Orientada a Objetos con PHP
 ==================================================
 
-Primera Parte (poo_basico.php y vehiculos.inc). Son 35 puntos
+Primera Parte. POO Básica con PHP. 35 puntos
 ===============================================================
 
 Crea una clase vehículos (*vehiculos.inc*) con:
@@ -22,7 +22,7 @@ Crea una página web (*poo_basico.php*) que, usando la clase anterior::
   #. Actualice la matrícula de v2
   #. Muestre la matrícula de v2
 
-Segunda Parte (archivos.php). Son 30 puntos
+Segunda Parte. Archivos Básico. 30 puntos
 ===========================================
 
 Crear un archivo de texto cualquiera (*ejemplo.txt*) y lo dejas en el mismo directorio. Haz una página php (*archivos.php*) que realice las siguientes tareas
@@ -33,7 +33,7 @@ Crear un archivo de texto cualquiera (*ejemplo.txt*) y lo dejas en el mismo dire
 #. Crea un array con 4 elementos y los escribes, línea a línea en el archivo. Sobreescribes lo que había. 5p
 #. Lee la primera línea de un archivo csv de ejemplo, y crea un array con cada elemento (que va separado por comas). 5p
 
-Tercera Parte (escoger uno de entre dos). 35 puntos
+Tercera Parte (aplicación sencilla). 35 puntos
 ===================================================
 
 Y para completar los últimos 35 puntos puedes **escoger uno de estos dos** (A o B):
