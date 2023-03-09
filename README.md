@@ -8,15 +8,20 @@ trabajo. El nivel de complejidad está adaptado a nuestro contexto.
 
 ## Configuración de las entregas (estudiantes)
 
-Lo ideal es configurar un repositorio, para ir dejando todos los exámenes. 
+Lo ideal es **configurar un repositorio**, para ir dejando todos los exámenes. 
 
-1. Creas el repositorio "examenes"
-2. Creas el directorio del módulo correspondiente
+1. Creas el repositorio *examenes*
+2. Creas el directorio del módulo correspondiente. Por ejemplo DIW (Diseño Interfaces Web)
 3. Vas creando, dentro del módulo, **una carpeta por examen** (examen1, examen2, ...)
-4. Toda la información del examen, irá dentro de la carpeta correspondiente
+4. Toda la información del examen irá dentro dentro de esa carpeta
 
-No hace falta que crees un nuevo repositorio con cada examen, mejor tenerlos todos juntos y organizados. Siempre te pueden servir de material de
-repaso. Incluso lo puedes incluir en tu currículum si te interesa
+No hace falta que crees un nuevo repositorio con cada examen. Es mejor
+tenerlos todos juntos y organizados. 
+
+Siempre te pueden servir de material de
+repaso. 
+
+Incluso lo puedes incluir en tu currículum si te interesa
 porque la empresa podrá ver cual es la complejidad de lo que abarcas y
 ver tu evolución. 
 
