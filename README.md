@@ -1,12 +1,26 @@
-# examenes-practicos-daw
+# Ejemplos de Exámenes Prácticos
 
-Voy añadiendo **ejemplos de exámenes prácticos** en cada módulo. 
+Este repositorio contiene  **ejemplos de exámenes prácticos**
+vinculados a los módulos descritos en www.apuntesinformaticafp.com
 
-Lo ideal es que tengas un repositorio por módulo donde tengas tu trabajo. Ahí creas un directorio principal "examenes" y vas dejando ahí todos los exámenes de cada tema en un directorio por examen.
+Sirven como plantillas de examen y también como actividades de
+trabajo. El nivel de complejidad está adaptado a nuestro contexto. 
 
-Por ejemplo el examen del módulo BD del tema 4 estaría en `$TU_GITHUB/BD/examenes/examen4` . 
+## Configuración de las entregas (estudiantes)
 
-No hace falta que crees un nuevo repositorio con cada examen, mejor tenerlos todos juntos y organizados que te sirven de material de repaso (o incluso lo puedes incluir en tu currículum).
+Lo ideal es configurar un repositorio, para ir dejando todos los exámenes. 
+
+1. Creas el repositorio "examenes"
+2. Creas el directorio del módulo correspondiente
+3. Vas creando, dentro del módulo, **una carpeta por examen** (examen1, examen2, ...)
+4. Toda la información del examen, irá dentro de la carpeta correspondiente
+
+No hace falta que crees un nuevo repositorio con cada examen, mejor tenerlos todos juntos y organizados. Siempre te pueden servir de material de
+repaso. Incluso lo puedes incluir en tu currículum si te interesa
+porque la empresa podrá ver cual es la complejidad de lo que abarcas y
+ver tu evolución. 
+
+## Recursos a entregar
 
 El directorio lo puedes usar como quieras. Puedes incluir:
 
@@ -14,8 +28,18 @@ El directorio lo puedes usar como quieras. Puedes incluir:
  - Capturas de Pantalla
  - Archivos de Programa (source code)
  - Archivos PDF
- - etc
+ - ...
 
 No se pueden incluir archivos ofimáticos (tipo Office)
 
-Cada examen estará **en un directorio diferente**. 
+## Configuración del tiempo de entrega
+
+Depende del tiempo de duración previsto para el examen (típicamente
+48h). Para controlar el tiempo lo mejor es: 
+
+1. Creas la carpeta y poner ahí el examen
+2. Trabajas sobre el examen y vas subiendo los cambios o ...
+3. Trabajas en local y subes el resultado al final
+
+La diferencia de tiempo entre el primer archivo (el examen) y el
+último, da el tiempo que tardaste en hacerlo. 
