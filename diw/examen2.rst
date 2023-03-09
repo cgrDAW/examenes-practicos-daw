@@ -24,18 +24,17 @@ Crea las páginas de tu sitio web teniendo en cuenta las siguientes
 consideraciones:
 
 #. Página principal en index.html (pasando index.txt a html). 10p
-#. Con 4 páginas html más en al menos dos subdirectorios. 20p
+#. Añade estructura al sitio web. Añades 4 páginas html más en al menos dos subdirectorios. 20p
 #. En todas las páginas será fácil ir a la página principal o a cualquiera de los otros documentos. 10p. 
-#. Revisando las páginas tengo que encontrar, y bien utilizados:
+#. Revisando las páginas tengo que encontrar, y correctamente utilizados:
 
    #. Títulos que estructuren el documento. 5p
    #. Enlaces internos y externos, con el título adecuado. 5p
    #. Resaltado con negritas y/o cursivas. 5p
    #. Usas listas (ordenadas y viñetas). 5p
 
-
 Publica tu HTML. 20p
 --------------------
 
 #. Veo tu sitio web en el directorio html en tu carpeta de examen. 10p
-#. Veo tu sitio web en tu perfil de github. 10p
+#. Veo tu sitio web en la carpeta examen2 del sitio web publico que   github te da. Es decir configuras la web en el url público que te   da github (en una carpeta concreta, para que no sea tu sitio principal). 10p
