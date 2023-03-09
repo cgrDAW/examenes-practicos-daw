@@ -1,8 +1,8 @@
 ======================================================
- Examen: Arquitectura y Desarrollo Web
+ Examen: El Lenguaje PHP (básico)
 ======================================================
 
-Vinculado al tema: https://www.apuntesinformaticafp.com/cursos/arquitectura_web.html
+Vinculado al tema: https://www.apuntesinformaticafp.com/cursos/el_lenguaje_php.html
 
 Cada uno de los problemas son 5 puntos. Creas una página php de nombre pN.php (siendo N N= 1 a 20). Es decir p1.php, p2.php .... p20.php).
 

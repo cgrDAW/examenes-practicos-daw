@@ -18,8 +18,11 @@ Crea un sitio web sencillo con la maquetación centralizada en los siguientes ar
 El sitio web tendrá la siguiente estructura:
 
 index.php
+
    /templates/
+
    /docs/
+
    /php/
 
 En el directorio templates irán los tres archivos de la plantilla.
