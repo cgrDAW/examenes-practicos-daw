@@ -42,9 +42,11 @@ No se pueden incluir archivos ofimáticos (tipo Office)
 Depende del tiempo de duración previsto para el examen (típicamente
 48h). Para controlar el tiempo lo mejor es: 
 
-1. Creas la carpeta y poner ahí el examen
-2. Trabajas sobre el examen y vas subiendo los cambios o ...
-3. Trabajas en local y subes el resultado al final
+1. Creas la carpeta del examen y pones ahí el enunuciado (marcará la
+   hora de inicio)
+2. Trabajas sobre el examen y vas subiendo los cambios a media que avanzas o ...
+3. Trabajas en local y subes el resultado al final (el último cambio
+   marcará la fecha de finalización)
 
 La diferencia de tiempo entre el primer archivo (el examen) y el
 último, da el tiempo que tardaste en hacerlo. 
