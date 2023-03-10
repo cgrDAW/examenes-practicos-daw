@@ -1,5 +1,5 @@
 ======================================================
- Examen: Arquitectura y Desarrollo Web
+Examen: Arquitectura y Desarrollo Web
 ======================================================
 
 Vinculado al tema: https://www.apuntesinformaticafp.com/cursos/arquitectura_web.html
