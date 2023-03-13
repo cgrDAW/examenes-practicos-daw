@@ -1,5 +1,5 @@
 ======================================================
- Examen: Realizar un sitio web usando un SSG (Sphinx)
+ Examen: Generación Estática de Sitios web
 ======================================================
 
 Vinculado al tema: https://www.apuntesinformaticafp.com/cursos/generacion_estatica_websites.html
