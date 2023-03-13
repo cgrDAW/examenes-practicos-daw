@@ -1,6 +1,11 @@
-==================================================
-Examen: Programación Orientada a Objetos con PHP
-==================================================
+==================================
+ Examen: POO con PHP
+==================================
+
+Vinculado al tema: https://www.apuntesinformaticafp.com/cursos/poo_con_php.html
+
+Guía de evaluación (sobre 100 puntos)
+=======================================
 
 Primera Parte. POO Básica con PHP. 35 puntos
 ===============================================================
