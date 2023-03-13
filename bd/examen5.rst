@@ -1,5 +1,5 @@
 ==============================
-Examen: Administrar un SGBDR
+Examen: Administrar una BD Relacional
 ==============================
 
 Vinculado al tema https://www.apuntesinformaticafp.com/cursos/administrar_una_bdr.html
