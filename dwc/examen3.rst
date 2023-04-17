@@ -25,7 +25,9 @@ Cada una de las tareas son 5 puntos. Este problema se llamará p1.js
 Jugando con el DOM (consola). 20p
 ---------------------------------
 
-Usa de referencia la url https://www.apuntesinformaticafp.com/cursos/pd_con_js.html . Puedes dejar en la carpeta el pantallazo con las respuestas o el archivo p2.js con las instrucciones. Usas la consola JS.
+Usa de referencia la url
+https://www.apuntesinformaticafp.com/cursos/pd_con_js.html . Usas la
+consola JS para probar, y dejas el código en el archivo p2.js 
 
 #. ¿Cómo seleccionas todos los elementos p (párrafos) de la página?
 
@@ -33,7 +35,7 @@ Usa de referencia la url https://www.apuntesinformaticafp.com/cursos/pd_con_js.h
 
 #. ¿Cómo accedo a un elemento de una colección? Es decir, ¿cómo accedo a un párrafo concreto de una colección de elementos párrafo?
 
-#. ¿Cual es el contenido de elemento identificado como "el-mensaje-http" ? ¿Cómo cambio el contenido de todas esa sección  para que diga "Hooooo....la"?
+#. ¿Cual es el contenido de elemento identificado como "una-pagina-dinamica-con-js" ? ¿Cómo cambio el contenido de todas esa sección  para que diga "Hooooo....la"?
 
    
 Jugando con el DOM (script). 20p
