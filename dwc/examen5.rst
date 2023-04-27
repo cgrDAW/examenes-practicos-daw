@@ -30,7 +30,7 @@ La idea es resolver estos problemas usando el paradigma funcional en JavaScript.
 
 A. *dados.js*. Juego de los dados.
 
-   Crear un programa que simule un juego en el que se lanzan dos dados. Ganará el número más pequeño.
+   Crear un programa que simule un juego en el que se lanzan dos dados. Ganará el número más grande.
 
 B. *juego.js* . Juego con personajes
 
