@@ -4,9 +4,14 @@ Examen: Programando el SGBDR
 
 Vinculado al tema https://www.apuntesinformaticafp.com/cursos/programando_sgbd.html
 
-
 Usando funciones nativas en Postgres. 20p
 -----------------------------------------
+
+Me adjuntas el código directamente para ejecutar en consola. Por
+ejemplo si te digo que me digas cuanto es 4 más 5, responderías SELECT
+4 + 5;
+
+Dime qué funciones podrían resolverme estos problemas:
 
 #. Quiero crear un número aleatorio entre el 5 y el 30
 #. ¿Cuanto es 4 elevado a 5?
@@ -19,8 +24,10 @@ Usando funciones nativas en Postgres. 20p
 #. ¿Como concatenas, usando un operador, el valor “Hola, me llamo” y el nombre “Pepe”?
 #. ¿Cómo harías para quitar las o’s y las e’s de “Hola soy Pepe”?
 
-Creando funciones y procedimientos (en SQL). 30p
+Creando funciones (en SQL). 30p
 ------------------------------------------------
+
+Implementa las siguientes funciones:
 
 #. *suma(n1,n2,n3)*. Crea una función que sume los dos primeros argumentos, y lo
    multiplique por un tercero. Los argumentos serán enteros.
@@ -34,7 +41,7 @@ Creando funciones y procedimientos (en SQL). 30p
 Creando funciones (en PL/pgSQL). 30p
 ------------------------------------
 
-Sobre la BD de Hubway:
+Sobre la BD de Hubway, implementa las siguientes funciones usando PL/pgPSQL:
 
 #. actualiza_viaje(viaje, factor). Actualizar la duración para un viaje concreto. Es decir la nueva duración será la que tiene multiplicada por factor. Devolverá el número de viajes realizado desde la misma estación de origen
 
@@ -48,6 +55,8 @@ Sobre la BD de Hubway:
 
 Creando Triggers. 20p
 ---------------------
+
+Sobre la BD Huway, implementa los siguientes disparadores:
 
 #. act_duracion_t. Al actualizar un viaje, comprobará que al menos la    duración es de 20 segundos. Si no lo es, lo actualizará para que   sea ese valor
 #. check_municipio_t. Cuando se actualice el municipio de una estación, garantizará que sea de un municipio que esté previamente en la tabla. En el caso de que no exista ese municipio previamente no se aceptarán municipios nuevos. 
