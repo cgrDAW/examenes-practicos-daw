@@ -19,11 +19,12 @@ Crear una página web (p1.html) que tenga texto y tres imágenes basadas en la i
 3. La tercera imagen, en realidad seleccionará una de entre tres alternativas, según la pantalla (supongamos un criterio por el ancho de pantalla)
 
   Pantalla Pequeña: ancho máximo 350 px
+  
   Pantalla Media: anchos entre 351 y 1024
+
   Pantalla Grande: mayor de 1.024 px
 
  Las imágenes estarán en el directorio imags
-
 
 Usando SVG. 20p.
 ---------------------------
