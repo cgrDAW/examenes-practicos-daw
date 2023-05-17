@@ -1,5 +1,5 @@
 =========================================
-Examen: Web APIs
+Examen: APIs Externas con JS
 =========================================
 
 Vinculado al tema https://www.apuntesinformaticafp.com/cursos/apis_externas_js.html
