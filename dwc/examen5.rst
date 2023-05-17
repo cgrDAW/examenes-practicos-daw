@@ -2,6 +2,9 @@
 Examen: Programación Funcional con JS .
 =========================================
 
+Vinculado al tema: https://www.apuntesinformaticafp.com/cursos/js_fn_async.html
+
+
 Primera Parte. Lo básico. 35 puntos.
 ==================================================
 
