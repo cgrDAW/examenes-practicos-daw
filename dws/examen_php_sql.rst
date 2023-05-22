@@ -2,7 +2,11 @@
 Examen: Acceso a Datos en PHP con SQL
 ==================================================
 
-Vinculado al tema: https://www.apuntesinformaticafp.com/cursos/php_sql.html
+Vinculado al tema:
+https://www.apuntesinformaticafp.com/cursos/php_sql.html
+
+En este examen incluirás un **archivo de configuración compose** en el repositorio para que pueda usar la infraestructura vía "docker compose up"
+
 
 Guía de evaluación (sobre 100 puntos)
 =======================================
@@ -38,7 +42,8 @@ Siempre usando PDO.
 Modificar la BD. 30p
 ====================
 
-Completas la aplicación web 
+Completas la aplicación web con los siguientes requisitos (vía
+aplicación web, es decir, usando formularios):
 
 #. Añadir viajeros, viajes y ciudades. Depende cómo sea tu modelo de datos (ojo a las FK)
 #. Actualizar los datos de un usuario
