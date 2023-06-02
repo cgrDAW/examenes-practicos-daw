@@ -12,8 +12,7 @@ Usa JS para utilizar el API Chuck Norris Jokes y crear una pequeña aplicación 
 
 #. Me muestre un chiste aleatorio (chiste, la fecha de actualización y la categoría a la que pertenece).
 #. Que me muestre una lista de todas las categorías disponibles. La lista tiene un url para mostrar un chiste de esa categoría en concreto
-#. Y  través de un campo de formulario, que me muestre un chiste
-   aleatorio, de una búsqueda por un texto que escriba en ese campo
+#. Y  través de un campo de formulario, que me muestre un chiste  aleatorio, de una búsqueda por un texto que escriba en ese campo
 
 Integración de APIs. 40p
 ========================
@@ -44,6 +43,9 @@ Creas una aplicación que, usando el API de UnSplash (p3.html), tenga los siguie
 
 Añadir implementación OAuth. 20p
 ===========================
+
+(Descartado) Hacerlo sin librerías se hace muy complejo con los últimos cambios de Google (si lo haces en local)
+Descarto este ejercicio ahora, para hacerlo necesitaríamos un hosting público
 
 Creas una aplicación sencilla donde añades implementación (p4.html) OAuth con Google (sin librerías, pero puedes
 usar el código enlazado en clase). La aplicación simplemente
