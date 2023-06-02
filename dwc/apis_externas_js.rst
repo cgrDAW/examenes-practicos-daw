@@ -44,7 +44,7 @@ Creas una aplicación que, usando el API de UnSplash (p3.html), tenga los siguie
 Añadir implementación OAuth. 20p
 ===========================
 
-(Descartado) Hacerlo sin librerías se hace muy complejo con los últimos cambios de Google (si lo haces en local)
+(**Descartado**) Hacerlo sin librerías se hace muy complejo con los últimos cambios de Google (si lo haces en local)
 Descarto este ejercicio ahora, para hacerlo necesitaríamos un hosting público
 
 Creas una aplicación sencilla donde añades implementación (p4.html) OAuth con Google (sin librerías, pero puedes
