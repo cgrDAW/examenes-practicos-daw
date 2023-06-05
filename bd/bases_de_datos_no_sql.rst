@@ -58,7 +58,7 @@ Trabajamos con la colección movies de la BD sample_mflix
 Agregación y Pipelines. 20p
 ===========================
 
-Trabajamos con la colección supplies de la BD sample_supplies
+Trabajamos con la colección sales de la BD sample_supplies
 
 #. Muéstrame 3 pedidos (supplies) de la BD.
 #. Muéstrame el promedio de edad de los clientes (customer) agrupado por tienda (storeLocation)
